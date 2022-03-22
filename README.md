@@ -5,7 +5,8 @@
 
 [![ParkByungKyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-ByungKyu)](https://github.com/Park-ByungKyu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-ByungKyu)](https://github.com/Park-ByungKyu)  
-​![​itinbangk's solved.ac stats​](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=itinbangk)
+​[![​itinbangk's solved.ac stats​](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=itinbangk)](https://www.acmicpc.net/user/itinbangk)
+
 # Github 목표
 1. github 블로그 만들고 글 올리기
 2. 코딩테스트용 Base code 작성하기
