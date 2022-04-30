@@ -1,20 +1,15 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=8&height=300&section=header&text=Byeonggyu%20Park&fontSize=65"></p>
 
-<h2 align="center">🛠 Tech Stack</h2>
+## Tech Stack  
+### Languages
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"> 
+### Tools  
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 
-<p align="center">
-  <h3 align="center"> Languages <br><br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">&nbsp  
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">&nbsp 
-</p>
+## 🙋‍♂️ Profile
 
-<h2 align="center">🙋‍♂️ Profile</h2>
-
-<p align="center">
-  <a href="https://ggyuchive.github.io">Blog</a><br>
-  <a href="https://ggyuchive.github.io/about">Resume</a>
+  <a href="https://ggyuchive.github.io">Blog<br>
+  <a href="https://ggyuchive.github.io/about">Resume
 </p>
 <br>
 
