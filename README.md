@@ -8,8 +8,8 @@
 
 ## 🙋‍♂️ Profile
 
-  <a href="https://ggyuchive.github.io">Blog<br>
-  <a href="https://ggyuchive.github.io/about">Resume
+  <a href="https://ggyuchive.tistory.com">Blog<br>
+  <a href="https://ggyuchive.tistory.com/notice/1">About Me
 </p>
 <br>
 
